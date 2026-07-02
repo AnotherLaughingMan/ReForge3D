@@ -1,6 +1,6 @@
 # ReForge3D Roadmap
 
-A modern revival of the Torque 3D game engine — bringing classic Torque DNA into 2026+ with better performance, tools, and rendering while staying indie-friendly and fully open source.
+A modern revival of the Torque 3D game engine, bringing classic Torque DNA into 2026+ with better performance, tools, and rendering while staying indie-friendly and fully open source.
 
 ## Vision
 Create a **lightweight, powerful, and fun-to-use** open-source 3D engine ideal for retro-style FPS, multiplayer games, simulations, and passionate indie projects.
@@ -55,12 +55,12 @@ Create a **lightweight, powerful, and fun-to-use** open-source 3D engine ideal f
 
 ---
 
-## How to Contribute
+## How to Participate
+- Check the [Issues](https://github.com/AnotherLaughingMan/ReForge3D/issues) and [Discussions](https://github.com/AnotherLaughingMan/ReForge3D/discussions)
 - See [CONTRIBUTING.md](./CONTRIBUTING.md)
-- Check the [Projects board](https://github.com/orgs/TorqueGameEngines/projects/1) for current tasks
-- Join the discussion on the [Torque3D forums](https://torque3d.org/forums)
+- Feel free to open new issues or start discussions!
 
-**This is a community-driven project.** Feedback and help are always welcome!
+This is a community-driven project, feedback and contributions are very welcome!
 
 ---
 
