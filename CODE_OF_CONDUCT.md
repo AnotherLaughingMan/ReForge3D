@@ -1,13 +1,40 @@
-# Torque Game Engines Community Code of Conduct
+# ReForge3D Code of Conduct
 
-- We, as a community, are committed to providing a friendly, safe and welcoming environment for all, regardless of experience, background, history or characteristic.
-- Please avoid using any overly sexual, offensive, or insulting alias or nicknames for yourself or others that would otherwise detract from a friendly, safe and welcoming environment.
-- Please be kind and courteous. There's no need to be rude.
-- Respect that people have differences of opinion, and that every design, implementation, or choice carries considerations, trade-offs, and costs. There is rarely ever a perfect answer.
-- Please keep critiques constructive. If you are going to critique someone's work, ideas, or decisions, do it with topical and specific feedback so that they can improve. Unconstructive critiques don't help anyone better their work.
-- Insulting, demeaning or harassing anyone is not welcome behavior, whether in public or private conversations. If you feel you have been subjected to any of this behavior, please contact any moderator or admin immediately. Whether you're a regular or a newcomer, we care about making this community a safe place for you. If you have any lack of clarity about what might fall under those concepts, feel free to ask for clarification from the moderation team.
-- Likewise, any spamming, trolling, flaming, baiting or other attention-stealing/seeking behavior is not welcome.
-- Do not insult or deride other users. 'You're an idiot' is not a useful comment. Do not do this.
-- If feedback is being provided, it needs to be constructive. Just simply calling something a bad idea is not helpful in correcting the core issues of that idea. Take the time to explain what is wrong with the idea and how it could be improved upon.
-- In discussions, under normal circumstances if the OP of a thread requests a post to be removed because they feel it is inflammatory, or off topic or the like, the mods will review it and in most cases, remove it per OP's request. It's their thread, so they get nearly final say in how the thread's topic should flow. MODGRU of course gets the actual final say, but will listen to the thread OPs reasoning, and if it makes sense, will generally abide the request.
-- If any user has a problem with something on any community site, such as content posted, or another user's behavior, they need to contact someone in MODGRU. Moderation cannot be expected to happen in a concise, timely manner if they are not informed about it. Rather than engaging in the negative behavior, users are heavily encouraged to report it and move on. Engaging in bad behavior in response only sets both parties up to be in trouble with moderation.
+## Our Pledge
+
+We as members, contributors, and maintainers of ReForge3D pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the project
+* Showing empathy toward other community members
+
+Examples of unacceptable behavior include:
+
+* The use of sexualized language or imagery
+* Trolling, insulting/derogatory comments, and personal attacks
+* Public or private harassment
+* Publishing others' private information without permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
+
+## Enforcement
+
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate corrective action in response to any instances of unacceptable behavior.
+
+If you experience or witness unacceptable behavior, please report it to the project maintainer (AnotherLaughingMan) by opening a private issue or contacting me directly.
+
+All reports will be reviewed and investigated promptly. The project maintainer is the final authority on enforcement.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+---
+
+**In short:** Be excellent to each other.  
+This is a small, personal revival project, let's keep it fun and productive.
