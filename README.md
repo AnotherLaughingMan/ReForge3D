@@ -1,50 +1,38 @@
-# Torque3D
+# ReForge3D
 
-MIT Licensed Open Source version of [Torque3D](https://torque3d.org) from [GarageGames](http://www.garagegames.com)
+**A modernized, community-driven fork of Torque 3D.**
 
-[![GitHub tag](https://img.shields.io/github/tag/TorqueGameEngines/Torque3D.svg)](https://github.com/TorqueGameEngines/Torque3D/tags)
-[![GitHub release](https://img.shields.io/github/release/TorqueGameEngines/Torque3D.svg)](https://github.com/TorqueGameEngines/Torque3D/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/TorqueGameEngines/Torque3D/total.svg)](https://github.com/TorqueGameEngines/Torque3D/releases/latest)
+ReForge3D is a revival project focused on updating the classic GarageGames Torque 3D engine with contemporary rendering, tools, and performance — while preserving its legendary networking, TorqueScript flexibility, and indie-friendly nature.
 
-[![Discord](https://img.shields.io/badge/Discord%20-%237289DA.svg?&logo=discord&logoColor=white)](https://discord.com/invite/qdAZxT4)
-[![IRC](https://img.shields.io/badge/irc-%23garagegames-green.svg)](https://kiwiirc.com/client/irc.maxgaming.net/?nick=wiki_user|?#garagegames) 
+---
 
-**Build Status:**
+## Quick Links
+- **Active Development Branch**: `ReForge3D-Dev`
+- [Roadmap](./ROADMAP.md)
+- [Issues](https://github.com/AnotherLaughingMan/ReForge3D/issues)
+- [Torque3D Homepage](https://torque3d.org)
+- [Community Forums](https://torque3d.org/forums)
+- [Guide Docs](https://docs.torque3d.org/)
+- [Reference Docs](https://reference.torque3d.org/)
 
-[![Windows Build](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-windows-msvc.yml/badge.svg)](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-windows-msvc.yml)
+---
 
-[![Linux Build](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-linux-gcc.yml/badge.svg)](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-linux-gcc.yml)
+## Features (Current Base)
+- Powerful built-in multiplayer networking
+- TorqueScript — high-level, productive scripting language
+- Full C++ source code access (MIT Licensed)
+- Cross-platform support (Windows, Linux, macOS)
+- Mature tools: World Editor, GUI Editor, Terrain, Particles, etc.
+- Physics (Bullet), sound, animation, and asset systems
 
-[![MacOSX Build](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-macos-clang.yml/badge.svg)](https://github.com/TorqueGameEngines/Torque3D/actions/workflows/build-macos-clang.yml)
+Modernization work (rendering, editor, performance) is just getting started.
 
+---
 
+## Getting Started
 
-## More Information
-
-* [Homepage](https://torque3d.org)
-* [Torque 3D wiki](http://wiki.torque3d.org)
-* [Community forum](https://torque3d.org/forums)
-* [Roadmap](https://github.com/orgs/TorqueGameEngines/projects/1)
-* [Binaries](https://github.com/TorqueGameEngines/Torque3D-Binaries)
-* [Guide Docs](https://docs.torque3d.org/)
-* [Reference Docs](https://reference.torque3d.org/)
-* [Work Blog](https://torque3d.org/blogs/blog/1-work-blog/)
-
-**Extras:**
-[Torque3D Resources](https://github.com/Torque3DResources) | [Awesome Torque3D](https://github.com/TorqueGameEngines/awesome-torque3d)
-
-## Pre-compiled Version
-
-In addition to GitHub we also have a couple of pre-packaged files for you to download if you would prefer to not compile the code yourself.
-They are available from the [Torque3D Binaries](https://github.com/TorqueGameEngines/Torque3D-Binaries) repo.
-
-### Legacy Links
-* [Legacy Repository](https://github.com/GarageGames/Torque3D)
-* [GarageGames forum](http://www.garagegames.com/community/forums)
-* [GarageGames professional services](http://services.garagegames.com/)
-* [Project Manager repository](https://github.com/GarageGames/Torque3D-ProjectManager)
-* [Offline documentation repository](https://github.com/Torque3D-GameEngine/Torque3D-Documentation)
-
-# License 
-
-All assets and code are under the [![license](https://img.shields.io/github/license/GarageGames/Torque3D.svg)](https://github.com/GarageGames/Torque3D/blob/master/LICENSE.md)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnotherLaughingMan/ReForge3D.git
+   cd ReForge3D
+   git checkout ReForge3D-Dev
