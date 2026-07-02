@@ -1,6 +1,6 @@
-# Torque 3D contribution guidelines
+# ReForge3D contribution guidelines
 
-So you want to help Torque out by contributing to the repo? That's awesome!
+So you want to help ReForge3D out by contributing to the repo? That's awesome!
 We just ask that you'd give this document a quick read to get yourself familiar with the process.
 Do you want to [request a feature](#request-a-feature)?
 Create a [pull-request](#create-a-pull-request) to contribute your own code to the engine?
@@ -8,9 +8,9 @@ Create a [pull-request](#create-a-pull-request) to contribute your own code to t
 
 ## Report an issue
 
-Before you report an issue with the engine, please [search](https://github.com/TorqueGameEngines/Torque3D/issues) and quickly make sure someone else hasn't obviously reported it.
+Before you report an issue with the engine, please [search](https://github.com/AnotherLaughingMan/ReForge3D/issues) and quickly make sure someone else hasn't obviously reported it.
 If you're not sure if it's the same issue, go ahead and comment on it!
-Once you're certain you've found a new issue, hit the [big green button](https://github.com/TorqueGameEngines/Torque3D/issues/new) and please include the following information:
+Once you're certain you've found a new issue, hit the [big green button](https://github.com/AnotherLaughingMan/ReForge3D/issues/new) and please include the following information:
 
  * Your platform and compiler, if you're not using a precompiled binary
  * A description of what currently happens, and what *should* or *should not* happen
@@ -54,7 +54,7 @@ PR bugfixes to `development-3.6`.
 
 Pull requests not adhering to these rules cannot be accepted, so pay attention!
 
-* Obviously, your contribution cannot contain any code that is not legally compatible with Torque 3D's MIT license.
+* Obviously, your contribution cannot contain any code that is not legally compatible with ReForge3D's MIT license.
 * Contributions must adhere to our [code style guidelines](http://wiki.torque3d.org/coder:code-style-guidelines).
 * Pull-requests against the master branch cannot be accepted. All requests must go to development, or an appropriate topic or maintenance branch.
 
@@ -84,7 +84,7 @@ We maintain an **X.Y.z** version scheme similar to that of [Semantic Versioning]
 
 ## Request a feature
 
-We ask that all feature requests be discussed in the [Torque3D forums](https://forums.torque3d.org/) or our [Discord](https://discord.gg/wz2ZrRH)
+We ask that all feature requests be discussed in the [ReForge3D Discussions](https://github.com/AnotherLaughingMan/ReForge3D/discussions)
 If your idea is popular, we'll hear of it and probably make an issue ourselves, if we agree.
 
 Even better - don't request a feature, start working on it!
